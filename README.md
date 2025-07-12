@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm doing something, you're also doing something...<br><br>- 🔭 I’m working as a hobbyist developer just making whatever interestm me.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to think about business ideas.</p>
+<p align="left">I'm doing something, you're also doing something...<br><br>- 🔭 I’m working as a hobbyist developer just making whatever interest me.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to think about business ideas.</p>
 
 ###
 
