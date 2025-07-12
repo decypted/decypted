@@ -58,8 +58,5 @@
 
 ###
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=decypted&theme=tokyonight-duo&border_radius=1.2)](https://git.io/streak-stats)
-</div>
 
 ###
