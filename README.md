@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
 </div>
 
 ###
@@ -22,11 +22,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm doing something, you're also doing something...<br><br>- 🔭 I’m working as a hobbyist developer just making whatever interest me.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to think about business ideas.</p>
+<p align="left">Hey there!
+I'm Andy, a aspiring engineer based in New York
+I design and build whatever I can imagine.
+If an idea pops into my head, chances are l'll build it for no reason at all other than to satisfy my delusion.
+My main tech stack is react, typescript, tailwind, and framer motion. My favorite tools are figma, standard notes, and affinity.
+I've got a bunch of pinned projects, but my favorite is Dismatch.
+</p>
 
 ###
 
