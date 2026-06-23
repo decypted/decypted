@@ -1,7 +1,7 @@
 # Hey, I'm Andy 👋
 **`Learning to be a Full-Stack Developer`**
 
-I'm a software developer finishing up Year Up United's LTCA track and (hopefully) heading into my first dev role. I like to build things that actually solve problems and create real value for people. Software to me isn't just about writing code but rather about what happens when people who have a particular set of problem use it. The human impact is what drives me.
+I'm a software developer finishing up Year Up United's LTCA track and (hopefully) getting my first dev role. I like to build things that actually solve problems and create real value for people. Software to me isn't just about writing code but rather about what happens when people who have a particular set of problem use it. The human impact is what drives me.
 
 📍 Brooklyn, NY · 🌐 [andytang.tech](https://andytang.tech)
 
